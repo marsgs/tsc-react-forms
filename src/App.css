@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card {
+  /* padding: 2em; */
+  width: 36rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.entry-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-form-content {
+  width: 28rem;
+}
+
+.right-form-content {
+  width: 5rem;
+}
